@@ -30,8 +30,6 @@ export interface LauncherProps {
   id: string
   /** i18n labels for the launcher UI */
   labels?: LauncherLabels
-  /** Whether to show ASCII art in the end of results message */
-  showASCIIArt?: boolean
   /** Additional classes to apply to the dialog */
   class?: string
   /** Additional HTML attributes */
